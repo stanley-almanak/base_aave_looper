@@ -1,4 +1,5 @@
 {
+    "chain": "base",
     "collateral_token": "WETH",
     "borrow_token": "USDC",
     "supply_amount": 1,
