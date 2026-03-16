@@ -281,7 +281,7 @@ dependencies = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "almanak", specifier = ">=2.0.0" }]
+requires-dist = [{ name = "almanak", specifier = ">=2.3.0" }]
 
 [[package]]
 name = "bitarray"
