@@ -4,5 +4,9 @@
     "supply_amount": 1,
     "borrow_amount": 500,
     "target_leverage": 2.0,
-    "min_collateral_usd": 100
+    "min_collateral_usd": 100,
+    "anvil_funding": {
+        "WETH": "5",
+        "USDC": "10000"
+    }
 }
