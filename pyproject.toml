@@ -6,5 +6,8 @@ dependencies = [
     "almanak>=2.3.0",
 ]
 
+[tool.almanak]
+framework = "v2"
+
 [tool.almanak.run]
 interval = 60
