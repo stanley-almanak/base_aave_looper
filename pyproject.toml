@@ -3,7 +3,7 @@ name = "base_aave_looper"
 version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
-    "almanak>=2.3.0",
+    "almanak @ git+https://github.com/almanak-co/sdk.git@v2.3.1-rc10",
 ]
 
 [tool.almanak]
